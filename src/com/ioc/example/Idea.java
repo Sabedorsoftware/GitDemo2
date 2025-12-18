@@ -3,6 +3,14 @@ package com.ioc.example;
 public class Idea implements I_Sim
 {
 
+	
+	public void Add()
+	{
+		int x =20;
+		int y=30;
+		int sum = x + y;
+	}
+	
 	@Override
 	public void Disconnect()
 	{
