@@ -11,6 +11,13 @@ public class Idea implements I_Sim
 		int sum = x + y;
 	}
 	
+	public void Sub()
+	{
+		int x =20;
+		int y=30;
+		int sum = x + y;
+	}
+	
 	@Override
 	public void Disconnect()
 	{
